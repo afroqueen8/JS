@@ -1,2 +1,3 @@
 # JS
-mixxedMess
+mixedMess.js
+Message generator program
